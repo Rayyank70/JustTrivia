@@ -1,4 +1,4 @@
-# JustTrivia
+# JustTrivia - Trivia Application Created in Swift
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/71199904/147749298-9d596870-7844-4cbd-96d3-9c98563753db.jpg" width="325" />
