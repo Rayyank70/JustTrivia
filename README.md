@@ -9,25 +9,18 @@
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Please use a small number of questions for the time being. The API that I used to retrieve the trivia questions does not have enough questions to fulfill all requests. For a full list of all available questions per category, please visit https://opentdb.com/api_count_global.php
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+A good sample usage would be "Number of Players: 1, Number of rounds: 10, Category: General Knowledge, Difficulty: Medium"
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+- [x] Complete UIKit StoryBoard for each View Controller
+- [x] Setup UITextField and UIPickerView Protocol methods needed for SelectionViewController
+- [x] Create backend models for retreiving API data and decoding
+- [x] Connect front and back ends
+- [ ] TODO: Account for situations where OpenTriviaDB returns error codes based on lack of questions, currently app just crashes
+- [ ] Include more aspects of hand around multiplayer
 
 <p align="right">(<a href="#top">back to top</a>)</p>
